@@ -46,7 +46,7 @@ We expect members of the community participating in conversations here to act in
 - Recreate an issue you feel was unjustly closed -- if you feel an issue was unjustly closed, feel free to add a comment to the issue explaining why
 - Add comments such as 👍, +1, or "I like this idea" -- use [reactions](https://github.blog/2016-03-10-add-reactions-to-pull-requests-issues-and-comments/)! We can measure those :)
 
-## Submitting An Issue
+## contact us for more help 
 > ⚠️ **Important!** If you discover a potential security exploit or vulnerability, please do not report it here! Check our [Security Policy](https://github.com/Minehut/Meta/security/policy) for more information.
 
 - Once you're ready to submit your bug report or feature request, head over to [this page](https://github.com/Minehut/Meta/issues/new/choose) to begin the process
